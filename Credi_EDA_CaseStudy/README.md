@@ -1,7 +1,6 @@
 # CREDIT EDA Case Study
 
 ## Problem Statement - I
- 
 
 ## Introduction
 This case study aims to give you an idea of applying EDA in a real business scenario. In this case study, apart from applying the techniques that you have learnt in the EDA module, you will also develop a basic understanding of risk analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers.
@@ -27,6 +26,8 @@ In other words, the company wants to understand the driving factors (or driver v
 To develop your understanding of the domain, you are advised to independently research a little about risk analytics - understanding the types of variables and their significance should be enough).
 
 ## Data Understanding
+Dataset download: https://drive.google.com/open?id=16RQztUqCfJOlbooHqYlJrp6Q7iL65uZB
+
 This dataset has 3 files as explained below: 
 1. 'application_data.csv'  contains all the information of the client at the time of application. The data is about whether a client has payment difficulties.
 2. 'previous_application.csv' contains information about the client’s previous loan data. It contains the data whether the previous application had been Approved, Cancelled, Refused or Unused offer.
