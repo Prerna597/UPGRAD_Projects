@@ -79,7 +79,7 @@ It will be used to identify important variables that are strong predictors of ch
 In some cases, both of the above-stated goals can be achieved by a single machine learning model. But here, you have a large number of attributes, and thus you should try using a dimensionality reduction technique such as PCA and then build a predictive model. After PCA, you can use any classification model.
 Also, since the rate of churn is typically low (about 5-10%, this is called class-imbalance) - try using techniques to handle class imbalance. 
 
-# You can take the following suggestive steps to build the model:
+## You can take the following suggestive steps to build the model:
 Preprocess data (convert columns to appropriate formats, handle missing values, etc.)
 Conduct appropriate exploratory analysis to extract useful insights (whether directly useful for business or for eventual modelling/feature engineering).
 Derive new features.
